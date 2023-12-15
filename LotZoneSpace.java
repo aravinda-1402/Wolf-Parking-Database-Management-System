@@ -7,13 +7,13 @@ public class LotZoneSpace {
 
 	public static void parkingOptions() throws ClassNotFoundException {
 		Connection conn = null;
-        String jdbcURL = "jdbc:mariadb://classdb2.csc.ncsu.edu:3306/sraghuk";
+        String jdbcURL = "ENTER THE URL";
 
         try {
             Class.forName("org.mariadb.jdbc.Driver");
 
-            String user = "sraghuk";
-            String passwd = "200534075";
+            String user = "ENTER YOUR USER ID";
+            String passwd = "ENTER YOUR PASSWORD";
 
             Statement stmt = null;
             ResultSet rs = null;
