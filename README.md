@@ -49,7 +49,8 @@ Additionally, security personnel can create/update/delete citations for parking 
 
 ## Project Reports 📊
 
-The project reports have information about the database schema and its design.
+The Project Report have information about the database schema and its design.
+It consists of 3 parts:
 
 1. **Report 1**: ER Diagrams and APIs
 2. **Report 2**: Database Schema and SQL statements that create the tables
