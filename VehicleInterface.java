@@ -6,9 +6,9 @@ import java.sql.*;
 public class VehicleInterface {
 
 	    // Database connection details
-	    private static final String JDBC_URL = "jdbc:mariadb://classdb2.csc.ncsu.edu:3306/sraghuk";
-	    private static final String USER = "sraghuk";
-	    private static final String PASSWORD = "200534075";
+	    private static final String JDBC_URL = "ENTER THE URL";
+	    private static final String USER = "ENTER YOUR USER ID";
+	    private static final String PASSWORD = "ENTER YOUR PASSWORD";
 
 	    public static void vehicleOptions() {
 	        try {
