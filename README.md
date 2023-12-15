@@ -3,7 +3,7 @@
 [![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)](https://yourprojectstatuspage.com)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-The **Wolf Parking Management System** 🚗🅿️ was developed as a part of the CSC540 Database Management Systems course requirement.
+The **Wolf Parking Management System** 🚗🅿️ was developed as a part of the **CSC 540 Database Management System** course requirement.
 
 ## Project Overview
 
