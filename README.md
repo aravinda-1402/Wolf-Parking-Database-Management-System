@@ -7,7 +7,7 @@ The **Wolf Parking Management System** 🚗🅿️ was developed as a part of th
 
 ## Project Overview
 
-It aims to model the Wolf Parking Management System based on insights obtained from the university parking manager and designed to oversee campus parking lots and users. This project handles parking lot availability, zone specifications, permit assignments, and citation tracking.
+It aims to model the Wolf Parking Management System based on insights from the university parking manager and is designed to oversee campus parking lots and users. This project handles parking lot availability, zone specifications, permit assignments, and citation tracking.
 
 Administrators manage space availability, assign permits, track citations, and generate reports for efficient parking management.
 
@@ -39,7 +39,7 @@ Encompassing license plate numbers, vehicle models, colors, manufacturers, and m
 Tracking citation numbers, car details, citation dates, times, lots, categories (e.g., "Invalid Permit," "Expired Permit," "No Permit"), fees, and payment statuses.
 
 ### System Capabilities ⚙️
-The system administrators will have capabilities to manage parking lots, zones, spaces, permits, and citations. They can assign permits, manage vehicle lists, alter space availabilities, and verify permit validity within their respective lots.
+The system administrators will be able to manage parking lots, zones, spaces, permits, and citations. They can assign permits, manage vehicle lists, alter space availabilities, and verify permit validity within their respective lots.
 
 ### Security 🔐
 Additionally, security personnel can create/update/delete citations for parking violations, modifying payment statuses as required. Database records will encompass driver, parking lot, permit, and citation data.
@@ -49,7 +49,7 @@ Additionally, security personnel can create/update/delete citations for parking 
 
 ## Project Reports 📊
 
-The Project Report have information about the database schema and its design.
+The Project Report has information about the database schema and its design.
 It consists of 3 parts:
 
 1. **Report 1**: ER Diagrams and APIs
